@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on anythign really
-- 📫 How to reach me vivikantor@gmail.com
+- 📫 How to reach me vivikantorpuga@gmail.com
 
 <!---
 HttpValeria/HttpValeria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
